@@ -75,7 +75,7 @@ The following visualizations were performed:
 
 ## 📁 Project Structure
 
-
+'''
 Telco-Churn-Prediction/
 │
 ├── data/
@@ -98,7 +98,7 @@ Telco-Churn-Prediction/
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+└── .gitignore'''
 
 
 📚 Skills Demonstrated
